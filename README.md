@@ -3,16 +3,7 @@
 <head>
 	<meta charset="UTF-8"/>
 	<title>Tudo sobre Google Glass</title>
-	<style>
-		body{
-			background-color: rgb(35,137,195);
-			color: rgba(0,0,0,0.5);
-		}
-		p{
-			text-align: justify; 
-			text-indent: 50px;
-		}
-	</style>
+	<link rel="stylesheet" type="text/css" href="_css/estilo.css"/>
 </head>
 <body>
 <div id="interface">
@@ -39,7 +30,7 @@ Menu Principal
 <h2 style="text-align: center;">O que é</h2>
 <p>O <span style="font-weigth: bold;">Google Glass</span> é um acessório em forma de óculos que possibilita a interação dos usuários com diversos conteúdos em realidade aumentada. Também chamado de <i>Project Glass</i>, o eletrônico é capaz de tirar fotos a partir de comandos de voz, enviar mensagens instantâneas e realizar vídeo&shy;con&shy;ferên&shy;cias. Seu lançamento está previsto para 2014, e seu preço deve ser de US$ 1,5 mil. Atualmente o <em>Google Glass</em> encontra-se em fase de testes e já possui um vídeo totalmente gravado com o dispositivo. Além disso, a companhia de buscas registrou novas patentes anti-furto e de desbloqueio de tela para o acessório.</p>
 
-<figure>
+<figure class="foto-legenda">
 	<img src="_imagens/glass-quadro-homem-mulher.jpg"/>
 	<figcaption>
 		<h3>Google Glass</h3>
